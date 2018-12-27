@@ -1,6 +1,6 @@
 name       : ruby-vagrant-cloud
 version    : 2.0.1
-release    : 1
+release    : 2
 source     :
     - https://github.com/hashicorp/vagrant_cloud/archive/v2.0.1.tar.gz : 937b748d54a9ffa0b8b3b5bf3fce7f409a7a9dfa7008f26dc3a9f3f9fe76c977
 license    : MIT
@@ -9,7 +9,7 @@ summary    : Ruby client for the Vagrant Cloud API.
 description: |
     Vagrant Cloud provides an API for users to interact with Vagrant Cloud for experimentation, automation, or building new features and tools on top of our existing application.
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 build      : |
     %gem_build
 install    : |

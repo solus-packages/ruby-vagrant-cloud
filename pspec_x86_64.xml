@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-vagrant-cloud</Name>
         <Packager>
-            <Name>Philipp Trulson</Name>
-            <Email>philipp@trulson.de</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,30 +19,30 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/bin/vagrant_cloud</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/account.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/box.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/client.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/errors.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/provider.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/search.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/vagrant_cloud-2.0.1.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/bin/vagrant_cloud</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/account.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/box.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/client.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/errors.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/provider.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/search.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.1/lib/vagrant_cloud/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/vagrant_cloud-2.0.1.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-10-17</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>2.0.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Philipp Trulson</Name>
-            <Email>philipp@trulson.de</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
