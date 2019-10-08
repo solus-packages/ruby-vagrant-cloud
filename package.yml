@@ -1,6 +1,6 @@
 name       : ruby-vagrant-cloud
 version    : 2.0.2
-release    : 3
+release    : 4
 source     :
     - https://github.com/hashicorp/vagrant_cloud/archive/v2.0.2.tar.gz : dd30a31f0a9ef151897b934bcd6bf7f6215277315b59f926d983ce155caf5561
 license    : MIT

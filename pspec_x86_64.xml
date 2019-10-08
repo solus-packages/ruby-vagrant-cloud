@@ -2,15 +2,15 @@
     <Source>
         <Name>ruby-vagrant-cloud</Name>
         <Packager>
-            <Name>Philipp Trulson</Name>
-            <Email>philipp@trulson.de</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
         <Summary xml:lang="en">Ruby client for the Vagrant Cloud API.</Summary>
         <Description xml:lang="en">Vagrant Cloud provides an API for users to interact with Vagrant Cloud for experimentation, automation, or building new features and tools on top of our existing application.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>ruby-vagrant-cloud</Name>
@@ -37,12 +37,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2019-01-10</Date>
+        <Update release="4">
+            <Date>2019-10-07</Date>
             <Version>2.0.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Philipp Trulson</Name>
-            <Email>philipp@trulson.de</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
