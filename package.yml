@@ -1,8 +1,8 @@
 name       : ruby-vagrant-cloud
-version    : 2.0.2
-release    : 4
+version    : 2.0.3
+release    : 5
 source     :
-    - https://github.com/hashicorp/vagrant_cloud/archive/v2.0.2.tar.gz : dd30a31f0a9ef151897b934bcd6bf7f6215277315b59f926d983ce155caf5561
+    - https://github.com/hashicorp/vagrant_cloud/archive/v2.0.3.tar.gz : 648c85d22bdb21d51c2d1beead97823e5f21fa2fd7c98ef302362f637e5ef30b
 license    : MIT
 component  : programming.ruby
 summary    : Ruby client for the Vagrant Cloud API.
