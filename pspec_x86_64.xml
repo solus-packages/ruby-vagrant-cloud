@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-vagrant-cloud</Name>
         <Packager>
-            <Name>Martin Reboredo</Name>
-            <Email>gc1000ll@gmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,30 +19,27 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/bin/vagrant_cloud</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/account.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/box.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/client.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/errors.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/provider.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/search.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/vagrant_cloud-2.0.3.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/bin/vagrant_cloud</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/account.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/box.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/client.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/errors.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/provider.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/search.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/vagrant_cloud-2.0.3/lib/vagrant_cloud/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/specifications/vagrant_cloud-2.0.3.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2019-12-06</Date>
+        <Update release="6">
+            <Date>2020-06-26</Date>
             <Version>2.0.3</Version>
             <Comment>Packaging update</Comment>
-            <Name>Martin Reboredo</Name>
-            <Email>gc1000ll@gmail.com</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Update>
     </History>
 </PISI>
